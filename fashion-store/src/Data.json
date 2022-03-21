@@ -1,0 +1,25 @@
+[
+ 
+{"id": "23","name": "Chicago 1s", "price": "$800", "description":"red, white and black", "stocks": "60"},
+{"id": "4", "name": "Royal 1s", "price": "$600", "description": "blue and red", "stocks": "126"},
+{"id": "45","name": "Travis 1s", "price": "$1200", "description": "brown, black, white and nike swish reversed", "stocks": "678"},
+{"id": "9", "name": "Dior 1s", "price": "$9000", "description": "dior patterns, light grey and white", "stocks": "89"},
+{"id": "1", "name": "Shadow 1s", "price": "$250", "description": "grey and black", "stocks": "8980"},
+{"id": "56","name": "Bred 4s", "price": "$500", "description":"red, white and black", "stocks": "789" },
+{"id": "8", "name": "Thunder 4s", "price": "$600","description": "black and yellow", "stocks": "476"},
+{ "id": "60","name": "Motorsports 4s", "price": "$300", "description": "black, white, and blue", "stocks": "6786"},
+{ "id": "78","name": "Toro 4s", "price": "$450", "description": "crimson red and black", "stocks": "534"},
+{ "id": "33","name": "Cement 4s", "price": "$350", "description": "grey, black and white with elaphant prints", "stocks": "569"},
+{ "id": "50","name": "Bred 11s", "price": "$500", "description":"red and black", "stocks": "789" },
+{ "id": "30","name": "Pinnacle 6s", "price": "$800", "description":"red, white and black", "stocks": "60" },
+{ "id": "34","name": "Infared 6s", "price": "$600", "description": "blue and red", "stocks": "126"},
+{ "id": "25","name": "carmine 6s", "price": "$1200", "description": "brown, black, white and nike swish reversed", "stocks": "678"},
+{ "id": "17","name": "Sportsblue 6s", "price": "$9000", "description": "dior patterns, light grey and white", "stocks": "89"},
+{ "id": "7", "name": "All-star 6s", "price": "$9000", "description": "dior patterns, light grey and white", "stocks": "89"},
+{ "id": "3", "name": "Bred 11s", "price": "$500", "description":"red and black", "stocks": "789" },
+{ "id": "99","name": "Space Jam 11s", "price": "$600", "description": "blue and black", "stocks": "476"},
+{ "id": "5", "name": "Concords 11s", "price": "$300", "description": "white, black and gold", "stocks": "6786"},
+{ "id": "2", "name": "Gym Red 11s", "price": "$450", "description": "all blood red", "stocks": "534"},
+{ "id": "87","name": "Gamma 11s", "price": "$350", "description": "blueish green and black", "stocks": "569"}
+
+]
